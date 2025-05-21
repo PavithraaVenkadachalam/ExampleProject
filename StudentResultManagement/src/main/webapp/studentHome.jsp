@@ -29,10 +29,15 @@ th{
   text-transform: uppercase;
  border: 2px solid rgba(255,255,255,0.3);
 }
+ HEAD
 
 
+<<<<<<< HEAD
 /* demo styles */
 
+=======
+ refs/remotes/origin/feature-branch
+>>>>>>> refs/heads/master
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
 body{
   background: -webkit-linear-gradient(left, #25c481, #25b7c4);
